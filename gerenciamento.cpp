@@ -1,4 +1,4 @@
-//alunos: Iuker de Souza Santos, Gabriel Bauer
+
 
 #include <iostream>
 #include <cstdlib>
